@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&customColorList=6&section=header&text=Hello%20PakaWorld!!&fontColor=F2F3F4&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&customColorList=6&section=header&text=✋Paka%20World✋&fontColor=F2F3F4&fontSize=90)
 
 
-<h1> I'm Jun sung Kim </h1>
+<h1> I'm Jun sung Kim😆 </h1>
 Be happy and do whatever you like
 <h4> Languages 📒 </h4>
 
@@ -14,4 +14,4 @@ Be happy and do whatever you like
 
 <h3>LOVE ❤</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnstjd5408)](https://github.com/wnstjd5408/github-readme-stats)
