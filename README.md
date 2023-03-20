@@ -2,7 +2,11 @@
 
 
 <h1> I'm Junsung Kim😆 </h1>
-<h3>Let's live doing what we want to do<h4> Languages 📒 </h3>
+<h3>"Challenge yourself when you're young"</h3>
+<h3> The Google chairman is wrong. </h3>
+<h3> You are young when you challenge yourself.</h3>
+
+<h4> Languages 📒 </h4>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnstjd5408%2F&count_bg=%2301A263&title_bg=%2368BC71&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
